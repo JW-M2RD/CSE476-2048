@@ -30,8 +30,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/score"
-            android:layout_alignParentRight="false"
-            android:layout_toRightOf="@+id/textScore"
+            android:layout_alignParentEnd="false"
+            android:layout_toEndOf="@+id/textScore"
             android:layout_alignBaseline="@+id/textScore" />
     </RelativeLayout>
 
